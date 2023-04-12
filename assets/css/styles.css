@@ -1,0 +1,40 @@
+.container{    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+    margin: 20px;
+    align-items: center;
+    height: 500px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container-select{
+    width: 50vw;
+    height: 70vh;
+}
+h3{
+    text-align: center;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 300px;
+    text-align: center;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+}
+.card-footer{
+    font-size:20px;
+}
+.myChart{
+    width: 60vw;
+    height: 40vh;
+    margin: 30px;
+    margin-left: 22%;
+    background-color: white;
+    text-align: center;
+}
